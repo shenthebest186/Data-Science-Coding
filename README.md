@@ -20,8 +20,8 @@ Solution and analysis for generating Treatment-Emergent Adverse Events and 2 AE 
 
 # Skills Demonstrated
 
-Data Cleaning
-Data Manipulation
+- Data Cleaning
+- Data Manipulation
 Statistical Analysis
 Data Visualization
 R Programming
