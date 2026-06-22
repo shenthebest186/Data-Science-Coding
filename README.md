@@ -18,11 +18,11 @@ Solution and analysis for generating ADSL. The folder contains the program, outp
 
 Solution and analysis for generating Treatment-Emergent Adverse Events and 2 AE Graphs. The folder contains the program, output, and log file.
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 - Data Cleaning
 - Data Manipulation
-Statistical Analysis
-Data Visualization
-R Programming
-Problem Solving
+- Statistical Analysis
+- Data Visualization
+- R Programming
+- Problem Solving
