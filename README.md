@@ -16,7 +16,7 @@ Solution and analysis for generating ADSL. The folder contains the program, outp
 
 ### Question 3 Folder (AE Table And Graphs)
 
-Solution and analysis for generating Treatment-Emergent Adverse Events and 2 AE Graphs. The folder contains the program, output, and log file.
+Solution and analysis for generating Treatment-Emergent Adverse Events Summary Table and 2 AE Graphs by using the ggplot2 package. The folder contains the program, output, and log file.
 
 ### Skills Demonstrated
 
